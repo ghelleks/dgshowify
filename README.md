@@ -6,8 +6,8 @@ I record on with Garageband and Skype. Skype has the best audio quality by far.
 
 ### Install Stuff
 
-1. Install SoundFlower
-2. Install LineIn
+1. Install [SoundFlower](https://rogueamoeba.com/freebies/soundflower/)
+2. Install [LineIn](https://www.rogueamoeba.com/freebies/)
 
 ### Send local microphone to Garageband
 

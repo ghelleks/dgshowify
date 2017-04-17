@@ -5,6 +5,6 @@ if [ -z $original ]; then
 fi;
 basename=`basename -s .mp3 $1`
 mp3-to-mono.sh $original
-mp3-to-mp4.sh $original $basename.m4a
-mp3-to-ogg.sh $original $basename.ogg
-scp david*.[mo]* www-1.hellekson.com:.
+#mp3-to-mp4.sh $original $basename.m4a
+#mp3-to-ogg.sh $original $basename.ogg
+#scp david*.[mo]* www-1.hellekson.com:.
